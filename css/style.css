@@ -19,11 +19,12 @@ a{
     color: #fff;
 }
 .section:nth-child(odd) {
-    background: #5DBAB2;
+    background: #D691AC;
+    
 }
 
 .section:nth-child(even) {
-    background: #D691AC;
+    background: #5DBAB2;
 }
 
 .nav-pills .nav-link.active,
